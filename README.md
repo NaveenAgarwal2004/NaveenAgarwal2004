@@ -4,67 +4,110 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+MERN+Developer;2%2B+Years+of+Academic+Coding+Experience;Building+Production-Ready+Apps;Passionate+About+Clean+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+MERN+Developer;2%2B+Years+of+Academic+Coding;Turning+Ideas+Into+Reality;Clean+Code+Enthusiast;Production-Ready+Mindset)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NaveenAgarwal2004&label=Profile%20Views&color=667eea&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/NaveenAgarwal2004?label=Followers&style=for-the-badge&color=764ba2" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Production%20Ready-667eea?style=for-the-badge" alt="focus" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **BCA Graduate** from Rajasthan University | **Aspiring Software Engineer**
+Hey there! I'm **Naveen**, a BCA graduate from Rajasthan University with a mission: **building web applications that actually work in production, not just in demos.**
 
-📍 Based in **Rajasthan, India** 🇮🇳
+🌍 **Based in:** Rajasthan, India 🇮🇳  
+💼 **What I Do:** MERN Stack Development with a frontend-leaning approach  
+🎯 **Experience:** 2+ years of academic coding experience  
+🔥 **Philosophy:** I don't just write code—I architect solutions that are clean, performant, and maintainable
 
-💼 **MERN Stack Developer** with 2+ years of academic coding experience, passionate about building **production-ready web applications**. I focus on **clean code**, **performance optimization**, and creating **meaningful user experiences**. My approach combines frontend expertise with backend knowledge to deliver complete, scalable solutions.
+### What Sets Me Apart?
 
-🎯 **Currently seeking** entry-level **Software Engineer / Full-Stack Developer** roles where I can grow and make an impact
+```diff
++ Production-first mindset: Admin panels, authentication, real user workflows
++ Performance obsessed: Lighthouse scores matter, not just pretty UIs
++ Testing advocate: E2E tests with Playwright because bugs in production hurt
++ End-to-end builder: From database schema to deployment pipelines
++ Focus on scalable architecture: Building for growth, not just functionality
+```
 
-💭 **Motto:** *"The best code is the code that's never written—until you actually need it!"*
+🎯 **Currently seeking** entry-level **Software Engineer / Full-Stack Developer** roles where I can contribute, learn system design at scale, and grow into a senior engineer.
+
+💡 **Fun Fact:** I optimize my projects like I optimize my coffee—**strong, efficient, and thoroughly tested**. Also, I genuinely believe the best code is the code you never have to write... until you actually need it!
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 Current Mission
 
-- 🔭 **Currently working on:** Full-stack applications with React, TypeScript, and Node.js—building admin dashboards and production-ready systems
-- 🌱 **Currently learning:** System design patterns, backend architecture, and advanced TypeScript
-- 👯 **Looking to collaborate on:** Open-source web projects, developer tools, and SaaS products
-- 🤝 **Seeking help with:** System design best practices and scalable architecture patterns
-- 💬 **Ask me about:** React, Node.js, MERN stack, frontend architecture, or JavaScript concepts
-- 📫 **Reach me at:** naveenagarwal7624@gmail.com
+```javascript
+const naveen_2025 = {
+  building: ["Admin dashboards", "CMS platforms", "Full-stack applications"],
+  learning: ["System Design Patterns", "Advanced TypeScript", "Testing Best Practices"],
+  exploring: ["Scalable architecture", "Performance optimization", "Cloud deployment"],
+  collaborating_on: ["Open-source MERN projects", "Developer tools", "Real-world SaaS"],
+  need_help_with: ["Distributed systems", "Backend architecture at scale"],
+  ask_me_about: ["React internals", "JWT authentication", "MongoDB optimization", "Frontend architecture"],
+  reach_me: "naveenagarwal7624@gmail.com"
+};
+```
 
 ---
 
 ## 🎯 Featured Projects
 
+> These aren't tutorial clones—they're production-ready systems I've built from scratch
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎨 Developer Portfolio</h3>
+<h3 align="center">🎨 Developer Portfolio & CMS</h3>
 <div align="center">
 <a href="https://github.com/NaveenAgarwal2004/Naveen-Portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
+<img src="https://img.shields.io/badge/View_Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
 </a>
 <a href="https://naveenagarwal-portfolio.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Live-764ba2?style=for-the-badge&logo=vercel&logoColor=white" alt="live"/>
+<img src="https://img.shields.io/badge/Live_Demo-764ba2?style=for-the-badge&logo=vercel&logoColor=white" alt="live"/>
 </a>
-<p><strong>MERN Stack | Admin CMS | JWT Auth</strong></p>
-<p>Production-grade portfolio with secure admin panel, dynamic content management, email integration, and SEO support.</p>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Full-stack portfolio with complete admin CMS**
+- 🔐 Secure JWT authentication & authorization
+- 📝 Dynamic content management system
+- 📧 Contact form with email integration
+- 🎨 SEO optimized & responsive design
+- 🚀 Production deployment pipeline
+
 </div>
 </td>
 <td width="50%">
-<h3 align="center">🌸 WishBloom</h3>
+<h3 align="center">🌸 WishBloom - A New Beginning</h3>
 <div align="center">
-<a href="https://github.com/NaveenAgarwal2004/wishbloom" target="_blank">
-<img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
+<a href="https://github.com/NaveenAgarwal2004/WishBloom---A-New-Beginning" target="_blank">
+<img src="https://img.shields.io/badge/View_Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
 </a>
-<p><strong>Performance | Accessibility | E2E Testing</strong></p>
-<p>Lighthouse-optimized web application focused on performance and user experience with comprehensive Playwright testing.</p>
+<a href="https://wishbloom-a-new-beginning.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-764ba2?style=for-the-badge&logo=vercel&logoColor=white" alt="live"/>
+</a>
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+**Performance-first web application**
+- ⚡ Lighthouse score optimization
+- ♿ Accessibility-focused design (WCAG compliant)
+- 🧪 Comprehensive E2E testing with Playwright
+- 📱 Mobile-first responsive architecture
+- 🎯 User experience driven development
+
 </div>
 </td>
 </tr>
@@ -72,41 +115,71 @@
 <td width="50%">
 <h3 align="center">🎬 Movie Reservation System</h3>
 <div align="center">
-<a href="https://github.com/NaveenAgarwal2004/movie-reservation" target="_blank">
-<img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
+<a href="https://github.com/NaveenAgarwal2004/Movie-Reservation-System" target="_blank">
+<img src="https://img.shields.io/badge/View_Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
 </a>
-<p><strong>Full-Stack | REST API | Real-time</strong></p>
-<p>Complete movie booking platform with seat selection, show timings, and API-driven architecture.</p>
+<a href="https://movie-reservation-system-nine.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-764ba2?style=for-the-badge&logo=vercel&logoColor=white" alt="live"/>
+</a>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Complete booking platform with API architecture**
+- 🎫 Real-time seat selection system
+- 🕐 Show timing management
+- 🔄 RESTful API design
+- 💳 Booking workflow implementation
+- 📊 Data persistence & state management
+
 </div>
 </td>
 <td width="50%">
-<h3 align="center">🎨 Frontend Experiments</h3>
+<h3 align="center">🎨 Frontend Lab</h3>
 <div align="center">
-<a href="https://github.com/NaveenAgarwal2004/frontend-practice" target="_blank">
-<img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
+<a href="https://github.com/NaveenAgarwal2004" target="_blank">
+<img src="https://img.shields.io/badge/Explore_Work-667eea?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
 </a>
-<p><strong>UI/UX | Responsive | Modern</strong></p>
-<p>Collection of responsive UI components and projects showcasing frontend fundamentals and modern design patterns.</p>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**UI/UX experimentation & component library**
+- 🎭 Modern UI components & patterns
+- 📱 Responsive design implementations
+- 🎨 CSS animations & transitions
+- 🧩 Reusable component architecture
+- 💡 Creative problem-solving showcase
+
 </div>
 </td>
 </tr>
 </table>
 
 <div align="center">
-<a href="https://naveenagarwal-portfolio.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Explore_All_Projects-667eea?style=for-the-badge" alt="portfolio" />
-</a>
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Explore_All_Projects-667eea?style=for-the-badge)](https://naveenagarwal-portfolio.vercel.app)
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-#### Frontend
+### Core Stack
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend Excellence
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -114,20 +187,23 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Backend & Database
 
-#### Tools & Testing
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Tools & Testing
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#### Languages
+### Also Familiar With
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -136,25 +212,33 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaveenAgarwal2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaveenAgarwal2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NaveenAgarwal2004&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenAgarwal2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenAgarwal2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=NaveenAgarwal2004&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenAgarwal2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9" width="98%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 💼 What I Bring to the Table
+
+<div align="center">
+
+| 🎯 **Production Mindset** | 🧪 **Quality First** | 🚀 **Fast Learner** |
+|:---:|:---:|:---:|
+| Not just functional—**scalable** | E2E tests, accessibility, performance | System design, new tech, best practices |
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Build Together
 
 <div align="center">
 
@@ -162,6 +246,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaveenAgarwal2004)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naveenagarwal-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenagarwal7624@gmail.com)
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NaveenAgar47373)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/naveenagarwal761)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/naveenagarwal2004)
@@ -171,7 +256,7 @@
 
 ---
 
-### 💭 Random Dev Quote
+### 💭 Daily Dose of Dev Wisdom
 
 <div align="center">
 
@@ -182,7 +267,26 @@
 ---
 
 <div align="center">
+  
+### 📌 Open to Opportunities
+
+**I'm actively looking for full-time Software Engineer roles where I can:**
+- Build production systems at scale
+- Learn from experienced engineers
+- Contribute to meaningful products
+- Grow into senior engineering roles
+
+**Let's talk if you're hiring!** 💼
+
+</div>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
   
-  <p>⭐️ From <a href="https://github.com/NaveenAgarwal2004">NaveenAgarwal2004</a> | Built with 💜 and TypeScript</p>
+  **⭐️ From [NaveenAgarwal2004](https://github.com/NaveenAgarwal2004) with 💜**
+  
+  *"Code is poetry written in logic"*
+  
 </div>
