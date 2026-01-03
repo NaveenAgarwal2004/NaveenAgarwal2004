@@ -217,17 +217,16 @@ Hey there! I'm **Naveen**, a BCA graduate from Rajasthan University with a missi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaveenAgarwal2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=NaveenAgarwal2004&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" />
+
+<a href="https://github.com/NaveenAgarwal2004">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NaveenAgarwal2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NaveenAgarwal2004&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&hide_border=true"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenAgarwal2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=NaveenAgarwal2004&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenAgarwal2004&custom_title=Naveen's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area=true" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenAgarwal2004&custom_title=Naveen's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area=true" width="100%"/>
 </div>
 
 ---
