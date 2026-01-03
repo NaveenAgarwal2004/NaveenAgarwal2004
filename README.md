@@ -43,17 +43,19 @@ Hey there! I'm **Naveen**, a BCA graduate from Rajasthan University with a missi
 
 ## 🚀 Current Mission
 
-```javascript
-const naveen_2025 = {
-  building: ["Admin dashboards", "CMS platforms", "Full-stack applications"],
-  learning: ["System Design Patterns", "Advanced TypeScript", "Testing Best Practices"],
-  exploring: ["Scalable architecture", "Performance optimization", "Cloud deployment"],
-  collaborating_on: ["Open-source MERN projects", "Developer tools", "Real-world SaaS"],
-  need_help_with: ["Distributed systems", "Backend architecture at scale"],
-  ask_me_about: ["React internals", "JWT authentication", "MongoDB optimization", "Frontend architecture"],
-  reach_me: "naveenagarwal7624@gmail.com"
-};
-```
+**🏗️ Building:** Admin dashboards • CMS platforms • Full-stack applications
+
+**📚 Learning:** System Design Patterns • Advanced TypeScript • Testing Best Practices
+
+**🔍 Exploring:** Scalable architecture • Performance optimization • Cloud deployment
+
+**🤝 Collaborating On:** Open-source MERN projects • Developer tools • Real-world SaaS
+
+**💡 Need Help With:** Distributed systems • Backend architecture at scale
+
+**💬 Ask Me About:** React internals • JWT authentication • MongoDB optimization • Frontend architecture
+
+**📧 Reach Me:** naveenagarwal7624@gmail.com
 
 ---
 
@@ -215,13 +217,17 @@ const naveen_2025 = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaveenAgarwal2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NaveenAgarwal2004&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaveenAgarwal2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=NaveenAgarwal2004&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenAgarwal2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-profile-trophy.vercel.app/?username=NaveenAgarwal2004&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenAgarwal2004&custom_title=Naveen's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=667eea&line=764ba2&point=c9d1d9&area=true" width="98%" alt="Contribution Graph"/>
 </div>
 
 ---
