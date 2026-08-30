@@ -273,13 +273,11 @@ Hey there! I'm **Naveen**, a BCA graduate from Rajasthan University with a missi
 
 <div align="center">
   
-### 📌 Open to Opportunities
-
-**I'm actively looking for full-time Software Engineer roles where I can:**
-- Build production systems at scale
-- Learn from experienced engineers
-- Contribute to meaningful products
-- Grow into senior engineering roles
+### 📌 Currently
+🎓 MCA — AI & Data Science @ JECRC University (Sem 1, 2026–2028)
+⚙️ Operations Coordinator, EDP — JECRC Incubation Centre
+🌐 Building: wishblooms.in | React.js · Next.js · TypeScript
+💬 Open to: remote projects, internships, and interviews — joining subject to college clearance
 
 **Let's talk if you're hiring!** 💼
 
